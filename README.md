@@ -3,14 +3,14 @@
 SoftUni Course
 
 <ul>
-	<li>NestedLoops</li>
+	<li>Nested Loops</li>
 	<li>Methods</li>
 	<li>Arrays</li>
 	<li>Lists</li>
 	<li>Loops</li>
 	<li>Dictionaries</li>
 	<li>OOP</li>
-	<li>StringAndTextProcessing</li>
+	<li>String And Text Processing</li>
 	<li>RegEx</li>
 	<li>Exam Preparation</li>
 </ul>
