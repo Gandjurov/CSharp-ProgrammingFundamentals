@@ -1,6 +1,9 @@
+<head>
 <style>
 	background-color: #ffe6cc;
 </style>
+</head>
+
 
 <h1>Programming Fundamentals C#</h1>
 
