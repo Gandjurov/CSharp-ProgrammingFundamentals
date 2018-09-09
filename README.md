@@ -1,3 +1,7 @@
+<style>
+	background-color: #ffe6cc;
+</style>
+
 <h1>Programming Fundamentals C#</h1>
 
 SoftUni Course
