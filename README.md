@@ -7,7 +7,7 @@ body{
 </style>
 </head>
 
-
+<body>
 <h1>Programming Fundamentals C#</h1>
 
 SoftUni Course
@@ -24,3 +24,4 @@ SoftUni Course
 	<li>RegEx</li>
 	<li>Exam Preparation</li>
 </ul>
+</body>
