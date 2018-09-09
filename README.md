@@ -1,6 +1,9 @@
 <head>
 <style>
+body{
 	background-color: #ffe6cc;
+}
+
 </style>
 </head>
 
