@@ -18,5 +18,5 @@ Along with the programming techniques, the <strong>algorithmic thinking</strong>
 	<li><a href="https://github.com/Gandjurov/CSharp-ProgrammingFundamentals/tree/master/06.%20OOP_Overview/OOP_Overview"> OOP </a></li>
 	<li><a href="https://github.com/Gandjurov/CSharp-ProgrammingFundamentals/tree/master/07.%20StringAndTextProcessing/StringAndText"> String And Text Processing </a></li>
 	<li><a href="https://github.com/Gandjurov/CSharp-ProgrammingFundamentals/tree/master/08.%20RegEx/RegEx"> RegEx </a></li>
-	<li><a href=" "> Exam Preparation </a></li>
+	<li><a href="https://github.com/Gandjurov/CSharp-ProgrammingFundamentals/tree/master/09.%20Exam%20Preparation"> Exam Preparation </a></li>
 </ul>
